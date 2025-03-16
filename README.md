@@ -4,7 +4,8 @@
 ## 📌 Overview  
 This project demonstrates how to perform **data processing and analysis** using **Apache Spark** on a **relational database**. We use **Spark SQL** to perform **joins, aggregations, and transformations** on CSV-based datasets.  
 
-![Architecture Diagram](architecture.png)
+![Screenshot from 2025-03-16 13-45-03](https://github.com/user-attachments/assets/ef7c367e-9ec2-4402-8053-70a04c56f2f6)
+
 
 
 ## 📂 Dataset  
