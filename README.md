@@ -1,7 +1,11 @@
 # Data Processing and Analysis using Spark | Spark Project-1  
 
+
 ## 📌 Overview  
 This project demonstrates how to perform **data processing and analysis** using **Apache Spark** on a **relational database**. We use **Spark SQL** to perform **joins, aggregations, and transformations** on CSV-based datasets.  
+
+![Architecture Diagram](images/architecture.png)
+
 
 ## 📂 Dataset  
 The project uses a **Retail Dataset** consisting of three tables:  
